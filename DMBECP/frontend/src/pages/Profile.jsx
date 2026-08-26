@@ -1,7 +1,7 @@
 import Navbar from "../components/Navbar";
 import "../styles/App.css";
 
-function Profile() {
+function Profileee() {
   return (
     <div>
       <Navbar />
