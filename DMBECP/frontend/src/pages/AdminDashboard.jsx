@@ -3,7 +3,7 @@ import { useNavigate, Link } from "react-router-dom";
 import "../styles/Dashboard.css";
 import Footer from "../components/Footer";
 
-function AdminDashboard() {
+function AdminDashboarddddd() {
   const [searchTerm, setSearchTerm] = useState("");
   const [showViewUsers, setShowViewUsers] = useState(false);
   const [showAddForm, setShowAddForm] = useState(false);
