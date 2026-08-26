@@ -3,7 +3,7 @@ function Footer() {
     <footer className="footer">
       <p>© 2026 Ecommerce Platform | All Rights Reserved</p>
       <p>Contact: support@ecommerce.com | Phone: +91-9876543210</p>
-      <p>Follow us: Facebook | Twitter | Instagram</p>
+      <p>Follow us: Facebook | Twitter | Instagram | Whatsapp</p>
     </footer>
   );
 }
