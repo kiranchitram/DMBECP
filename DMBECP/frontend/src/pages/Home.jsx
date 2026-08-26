@@ -4,7 +4,7 @@ import ProductCard from "../components/ProductCard";
 import Footer from "../components/Footer";
 import "../styles/App.css";
 
-function Home() {
+function Homeee() {
   // Electronics products with local images
   const products = [
     { name: "Laptop", image: "/images/electronics/laptop.webp" },
