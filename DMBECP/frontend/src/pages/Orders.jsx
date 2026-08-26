@@ -1,7 +1,7 @@
 import Navbar from "../components/Navbar";
 import "../styles/App.css";
 
-function Orders() {
+function Orderssss() {
   const orders = [
     { id: 1, product: "Laptop", status: "Delivered" },
     { id: 2, product: "Smartphone", status: "Shipped" },
