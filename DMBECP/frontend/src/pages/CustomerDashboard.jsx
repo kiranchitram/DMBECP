@@ -5,7 +5,7 @@ import ProductCard from "../components/ProductCard";
 import Footer from "../components/Footer";
 import "../styles/Dashboard.css";
 
-function CustomerDashboarddd() {
+function CustomerDashboard() {
   const navigate = useNavigate();
   const { cart, addToCart } = useContext(CartContext);
   const [searchTerm, setSearchTerm] = useState("");
