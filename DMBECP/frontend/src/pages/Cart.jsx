@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import { CartContext } from "../context/CartContext";
 import "../styles/App.css";
 
-function Cartttt() {
+function Cart() {
   const { cart, clearCart } = useContext(CartContext);
 
   return (
