@@ -2,7 +2,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import "../styles/App.css";
 
-function Contactttt() {
+function Contact() {
   return (
     <div>
       <Navbar />
