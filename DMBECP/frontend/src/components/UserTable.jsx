@@ -21,7 +21,7 @@ function UserTable({ searchTerm }) {
         <tr>
           <th>Username</th>
           <th>Email</th>
-          <th>Phone</th>
+          <th>Phoneee</th>
           <th>Address</th>    
         </tr>
       </thead>
