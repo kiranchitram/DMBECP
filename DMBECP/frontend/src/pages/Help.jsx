@@ -2,7 +2,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import "../styles/App.css";
 
-function Help() {
+function Helppp() {
   return (
     <div>
       <Navbar />
