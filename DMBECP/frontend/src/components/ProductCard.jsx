@@ -5,7 +5,7 @@ function ProductCard({ name, image, onAddToCart }) {
     <div className="product-card">
       <img src={image} alt={name} className="product-image" />
       <h3>{name}</h3>
-      <button onClick={onAddToCart}>Add to Cart</button>
+      <button onClick={onAddToCart}>Add Cart</button>
     </div>
   );
 }
