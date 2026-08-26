@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import Navbar from "../components/Navbar";
 import "../styles/App.css";
 
-function Signupppp() {
+function Signup() {
   const [form, setForm] = useState({ name:"", username:"", email:"", password:"", phone:"" });
   const navigate = useNavigate();
 
